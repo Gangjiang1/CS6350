@@ -1,0 +1,1 @@
+python3 LMS.py ./concrete/train.csv ./concrete/test.csv gradient_descent
